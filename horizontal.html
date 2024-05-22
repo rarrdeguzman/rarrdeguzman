@@ -12,27 +12,27 @@
 
 <div class="scrollX" id="scrollX" >
 
-	<div class="section1" onclick="scrollWin()">
+	<div class="section1" onclick="scrollWin(1)">
 		<h1>section1</h1>
 	</div>
 
-	<div class="section2" onclick="scrollWin2()">
+	<div class="section2" onclick="scrollWin(2)">
 		<h1>section2</h1>
 	</div>
 
-	<div class="section3" onclick="scrollWin3()">
+	<div class="section3" onclick="scrollWin(3)">
 		<h1>section3</h1>
 	</div>
 
-	<div class="section4" onclick="scrollWin4()">
+	<div class="section4" onclick="scrollWin(4)">
 		<h1>section4</h1>
 	</div>
 
-	<div class="section5" onclick="scrollWin5()">
+	<div class="section5" onclick="scrollWin(5)">
 		<h1>section5</h1>
 	</div>
 
-	<div class="section6" onclick="scrollWin6()">
+	<div class="section6" onclick="scrollWin(0)">
 		<h1>section6</h1>
 	</div>
 
@@ -45,39 +45,17 @@
 
 
 
+
 	document.documentElement.addEventListener('wheel', (event) => {
 	    event.preventDefault() // prevent vertical scroll
-	    document.documentElement.scrollLeft += event.deltaY
-	})
+	    document.documentElement.scrollLeft += event.deltaY;
+
+	});
 
 
-
-
-	function scrollWin() {
-	  window.scrollTo(w*1,0);
+	function scrollWin(number) {
+	  window.scroll(w*number,0);
 	}
-
-	function scrollWin2() {
-	  window.scrollTo(w*2,0);
-	}
-
-	function scrollWin3() {
-	  window.scrollTo(w*3,0);
-	}
-
-	function scrollWin4() {
-	  window.scrollTo(w*4,0);
-	}
-
-	function scrollWin5() {
-	  window.scrollTo(w*5,0);
-	}
-
-	function scrollWin6() {
-	  window.scrollTo(0,0);
-	}
-
-
 
 
 
