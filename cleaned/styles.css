@@ -265,6 +265,12 @@
 /* mobile */
 @media only screen and (max-width: 600px) {
 
+	body,
+	html {
+		overflow-y: scroll !important;
+		-webkit-overflow-scrolling: touch;
+	}
+
   body {
     height: auto;
 		width: 100vw;
