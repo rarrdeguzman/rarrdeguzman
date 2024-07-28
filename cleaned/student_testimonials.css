@@ -1,0 +1,27 @@
+/*.intro_container {
+	display: none;
+}
+
+.intro2_container {
+	display: none;
+}
+
+.portfolio_container {
+	display: none;
+}
+
+.slide4_container {
+	display: none;
+}*/
+
+.flex_container {
+	width: 400vw;
+}
+
+@media only screen and (max-width: 1024px) {
+
+}
+
+@media only screen and (max-width: 600px) {
+
+}
