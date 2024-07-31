@@ -4,20 +4,64 @@
 		"selected_items":
 		[
 			[
-				"mar",
-				"margin"
+				"fle",
+				"flex-end"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"co",
+				"column-gap"
+			],
+			[
+				"bo",
+				"box-sizing"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"min",
+				"min-width"
 			],
 			[
 				"show",
 				"showOnMobile"
 			],
 			[
-				"ale",
+				"flex",
+				"flex-direction"
+			],
+			[
+				"flex-",
+				"flex-direction"
+			],
+			[
+				"alien",
 				"align-self"
 			],
 			[
-				"al",
-				"all"
+				"ali",
+				"align-self"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ale",
+				"align-self"
 			],
 			[
 				"col",
@@ -36,24 +80,8 @@
 				"margin"
 			],
 			[
-				"flex",
-				"flex"
-			],
-			[
-				"flex-",
-				"flex-end"
-			],
-			[
-				"ali",
-				"align-items"
-			],
-			[
 				"align",
 				"align-items"
-			],
-			[
-				"box-s",
-				"box-sizing"
 			],
 			[
 				"wid",
@@ -64,20 +92,8 @@
 				"width"
 			],
 			[
-				"fle",
-				"flex-end"
-			],
-			[
-				"co",
-				"column-gap"
-			],
-			[
 				"margi",
 				"margin"
-			],
-			[
-				"bo",
-				"bottom"
 			],
 			[
 				"alin",
@@ -94,10 +110,6 @@
 			[
 				"te",
 				"text-decoration"
-			],
-			[
-				"pad",
-				"padding"
 			],
 			[
 				"wi",
@@ -146,10 +158,6 @@
 			[
 				"padd",
 				"padding"
-			],
-			[
-				"min",
-				"min-width"
 			],
 			[
 				"box",
@@ -475,6 +483,211 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "faculty.html",
+			"settings":
+			{
+				"buffer_size": 10801,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAA8ikAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "Faculy"
+					},
+					"BwAAAIQAAAAAAAAAhQAAAAAAAAAAAAAAhQAAAAAAAACFAAAAAAAAAAkAAABQb3J0Zm9saW+FAAAAAAAAAIYAAAAAAAAAAAAAAIYAAAAAAAAAhwAAAAAAAAAAAAAAhwAAAAAAAACIAAAAAAAAAAAAAACIAAAAAAAAAIkAAAAAAAAAAAAAAIkAAAAAAAAAigAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhAAAAAAAAACNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIkAAAAAAAAAiQAAAAAAAAABAAAAeQ",
+					"AQAAAAAAAAABAAAAigAAAAAAAACKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "ty"
+					},
+					"AgAAAIkAAAAAAAAAigAAAAAAAAAAAAAAigAAAAAAAACLAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiQAAAAAAAACJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"BQAAAL8CAAAAAAAAwAIAAAAAAAAAAAAAwAIAAAAAAADBAgAAAAAAAAAAAADBAgAAAAAAAMICAAAAAAAAAAAAAMICAAAAAAAAwwIAAAAAAAAAAAAAwAIAAAAAAADAAgAAAAAAAAEAAAAJ",
+					"AQAAAAAAAAABAAAAvwIAAAAAAAC/AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"paste",
+					null,
+					"AQAAAMECAAAAAAAAAwMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwgIAAAAAAADCAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"cut",
+					null,
+					"AQAAAMACAAAAAAAAwAIAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAwAIAAAAAAADAAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "facu"
+					},
+					"BgAAAO4CAAAAAAAA7wIAAAAAAAAAAAAA7wIAAAAAAADvAgAAAAAAAA0AAABwb3J0Zm9saW9QYWdl9gIAAAAAAAD2AgAAAAAAAAEAAAAJ7wIAAAAAAADwAgAAAAAAAAAAAADwAgAAAAAAAPECAAAAAAAAAAAAAPECAAAAAAAA8gIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7gIAAAAAAAD7AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"insert_completion",
+					{
+						"completion": "faculty",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "faculty"
+					},
+					"AgAAAO4CAAAAAAAA7gIAAAAAAAAEAAAAZmFjde4CAAAAAAAA9QIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8gIAAAAAAADyAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "Page"
+					},
+					"BAAAAPUCAAAAAAAA9gIAAAAAAAAAAAAA9gIAAAAAAAD3AgAAAAAAAAAAAAD3AgAAAAAAAPgCAAAAAAAAAAAAAPgCAAAAAAAA+QIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9QIAAAAAAAD1AgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "portfolioPage.css",
+			"settings":
+			{
+				"buffer_size": 3572,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "facultyPage.css",
+			"settings":
+			{
+				"buffer_size": 26,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "body"
+					},
+					"BAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAAQAAAAAAAAABQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAAUAAAAAAAAABwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"AwAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAAHAAAAAAAAAAgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "ba"
+					},
+					"AgAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert_completion",
+					{
+						"completion": "background: $0;",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "background"
+					},
+					"AgAAAAgAAAAAAAAACAAAAAAAAAACAAAAYmEIAAAAAAAAABUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "red"
+					},
+					"AwAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -519,6 +732,17 @@
 	},
 	"file_history":
 	[
+		"/Users/romeodeguzmanii/Documents/Mirror/responsive/portfolio.html",
+		"/Users/romeodeguzmanii/Documents/Mirror/responsive/portfolioPage.css",
+		"/Users/romeodeguzmanii/Documents/Mirror/responsive/faculty.css",
+		"/Users/romeodeguzmanii/Documents/Mirror/responsive/portfolio.css",
+		"/Users/romeodeguzmanii/Documents/Mirror/responsive/styles.css",
+		"/Users/romeodeguzmanii/Documents/Mirror/responsive/footer.css",
+		"/Users/romeodeguzmanii/Documents/Mirror/responsive/intro2.css",
+		"/Users/romeodeguzmanii/Documents/Mirror/responsive/reset.css",
+		"/Users/romeodeguzmanii/Documents/Mirror/responsive/slide4.css",
+		"/Users/romeodeguzmanii/Documents/Mirror/responsive/student_testimonials.css",
+		"/Users/romeodeguzmanii/Documents/Mirror/responsive/index.html",
 		"/Users/romeodeguzmanii/Documents/Mirror/cleaned/intro2.css",
 		"/Users/romeodeguzmanii/Documents/Mirror/cleaned/student_testimonials.css",
 		"/Users/romeodeguzmanii/Documents/Mirror/cleaned/styles.css",
@@ -635,18 +859,7 @@
 		"/Users/romeodeguzmanii/Desktop/index.html",
 		"/Users/romeodeguzmanii/Documents/IMM/sem1/1511-WebDesign/Assignment/DeGuzmanII-Romeo-a04/styles.css",
 		"/Users/romeodeguzmanii/Desktop/horizontal/horizontal.css",
-		"/Users/romeodeguzmanii/Desktop/horizontal/horizontal.html",
-		"/Users/romeodeguzmanii/Documents/IMM/sem1/1511-WebDesign/Assignment/DeGuzmanII-Romeo-a04/index.html",
-		"/Users/romeodeguzmanii/Desktop/horizontal/index.html",
-		"/Users/romeodeguzmanii/Desktop/horizontal/styles.css",
-		"/Users/romeodeguzmanii/Desktop/week3(ex2)/index.html",
-		"/Users/romeodeguzmanii/Desktop/week3(ex2)/javascript.js",
-		"/Users/romeodeguzmanii/Desktop/week3/index.html",
-		"/Users/romeodeguzmanii/Desktop/week3/javascript.js",
-		"/Users/romeodeguzmanii/Documents/IMM/1526-ClientSide/week-2/index.html",
-		"/Users/romeodeguzmanii/Documents/IMM/1526-ClientSide/week-2/JS/javascript.js",
-		"/Users/romeodeguzmanii/Documents/IMM/1526-ClientSide/week-2/JS/my-first-script.js",
-		"/Applications/MAMP/htdocs/1531/romeo-deguzman-e1-1531/romeo-deguzman-e1-1531.php"
+		"/Users/romeodeguzmanii/Desktop/horizontal/horizontal.html"
 	],
 	"find":
 	{
@@ -664,6 +877,86 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"portfolioPage_photoObject2",
+			"showOnMobile",
+			"additionalPadding",
+			"portfolio_container3_items",
+			"portfolioPageWidth",
+			"portfolioPage_photoObject3",
+			"portfolioPage",
+			"portfolio_row3",
+			"portfolio_photoObject",
+			"portfolioPage",
+			"portfolio_row2",
+			"additionalPadding",
+			"headline2",
+			"headline1",
+			"porfolio_desc",
+			"portfolio_row1",
+			"portfolio_container",
+			"expandBeforeMobile",
+			"acLogo",
+			"portfolio_container3",
+			"portfolio_container2",
+			"width_200vw",
+			".faculty_row2 div img",
+			".portfolio_row2",
+			".portfolio_row2 div img",
+			"back",
+			"showOnMobile",
+			"show",
+			"portfolioPage",
+			"showOnMobile",
+			"modal",
+			"logo_container div img ",
+			"img",
+			"portfolioPage_img",
+			"column-gap: 50px;",
+			"portfolio_row2",
+			"gap",
+			"width_200vw",
+			"flex",
+			"expandOn720w",
+			"icon",
+			"img",
+			"icon_container",
+			"img",
+			"green",
+			"desktop-nav",
+			"nav",
+			"width_200vw",
+			"portfolioPage_img",
+			"portfolio_container",
+			"width_200vw",
+			"img",
+			"portfolio_container",
+			"padding",
+			"gap",
+			"portfolio_container3_items div img",
+			"padding",
+			"red",
+			"portfolio_row2",
+			"portfolio_ctaMobile",
+			"hideOnMobile",
+			"view",
+			" style=\"display: none;\"",
+			" style=\"display: none;",
+			"portfolio_container2_items",
+			"portfolio_container2",
+			"green",
+			"logo_container",
+			"unset",
+			"logo_container",
+			"acLogo",
+			"flex_container",
+			"body",
+			"logo-img",
+			"faculty_row3",
+			"faculty_name",
+			"faculty_bio",
+			"faculty_name",
+			"border",
+			"faculty_row2",
 			"hideOnMobile",
 			"showOnMobile",
 			"show",
@@ -711,87 +1004,7 @@
 			"padding",
 			"body",
 			"html",
-			"body",
-			"html",
-			"body",
-			"html",
-			"body",
-			"html",
-			"flex",
-			"overlayText",
-			"green",
-			".mobile.showOnMed",
-			"gap",
-			"slide4_container",
-			"col-1",
-			"slide4_desc",
-			"courses",
-			"slide4_desc",
-			"slide4_photoObject",
-			"slide4_container",
-			"intro2_photoObject_desktop",
-			"camera_PO",
-			"intro2_photoObject_desktop",
-			"photo",
-			"gap",
-			"overlayText",
-			"absolute",
-			"slide4_container",
-			"padding",
-			"hide",
-			"slide4_container",
-			"\t\theight: auto;\n",
-			".slide4_container .row1",
-			"red",
-			"portfolio_container",
-			"flex_container",
-			"intro_container",
-			"flex_container",
-			"\tmargin-top: -15px;\n",
-			"50px",
-			"gap",
-			"slide4_container",
-			"hideOnMed",
-			"slide4_container .row1 .col-2 ",
-			".slide4_container .row1 .col-2",
-			".slide4_container .col-2 img",
-			"col-1",
-			"slide4_container",
-			"row1",
-			"nth-child",
-			"red",
-			"slide4_container",
-			"body",
-			"porfolio_desc",
-			"portfolio_row1",
-			"portfolio_container",
-			"portfolio_photoObject",
-			"portfolio_container",
-			"img",
-			"portfolio_row3",
-			"portfolio_container",
-			"red",
-			"desc",
-			"portfolio_container",
-			"porfolio_desc",
-			"portfolio_container",
-			"headline2",
-			"portfolio_container",
-			"portfolio_row2",
-			"porfolio_desc",
-			"porfolio_pieces_col1",
-			"portfolio_row1",
-			"portfolio_row2",
-			"col",
-			"portfolio_col1",
-			"porfolio_desc",
-			"hover",
-			"--bebasFontWeight",
-			"intro_container",
-			"intro2_col1",
-			"width90",
-			"dito",
-			"intro2_container"
+			"body"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -799,6 +1012,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"portfolioPageWidth",
+			"",
 			"faculty",
 			"c"
 		],
@@ -815,11 +1030,104 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "faculty.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								761,
+								761
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		},
 		{
 			"sheets":
 			[
+				{
+					"buffer": 1,
+					"file": "portfolioPage.css",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3572,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								641,
+								641
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 548.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "facultyPage.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								23
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
